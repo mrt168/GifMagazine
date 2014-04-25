@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_signup">Facebookでアカウントを作成</string>
+	<string name="twitter_signup">Twitterでアカウントを作成</string>
+	<string name="signup_edit_user">ユーザ名を入力</string>
+	<string name="signup_edit_mail">メールアドレスを入力</string>
+	<string name="signup_edit_pass">パスワードを入力</string>
+	<string name="signup_mail">メールアドレスで作成</string>
+	<string name="signup_privacy">サービス規約とプライバシーポリシー</string>
+</resources>

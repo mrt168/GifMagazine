@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="signin">ログイン</string>
+    <string name="facebook_signin">Facebookでログイン</string>
+	<string name="twitter_signin">Twitterでログイン</string>
+	<string name="signin_edit_user">ユーザ名を入力</string>
+	<string name="signin_edit_mail">メールアドレスを入力</string>
+	<string name="signin_edit_pass">パスワードを入力</string>
+	<string name="signin_mail">メールアドレスでログイン</string>
+	<string name="signin_privacy">サービス規約とプライバシーポリシー</string>
+	<string name="signin_remembarpass">パスワードをお忘れですか？</string>
+</resources>
